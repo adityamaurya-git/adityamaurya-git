@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h3 align="left">👩‍💻 I'm an enthusiastic web developer with a strong understanding of **JavaScript**, **C++**, and Data Structures & Algorithms (DSA). I am passionate about exploring new technologies and frameworks to enhance my productivity and capability as a developer.</h3>
+<h3 align="left">👩‍💻 I'm an enthusiastic web developer with a strong understanding of **JavaScript**, **React.js**, **Node.js**, **Express.js**, **C++**, and Data Structures & Algorithms (DSA). I am passionate about exploring new technologies and frameworks to enhance my productivity and capability as a developer.</h3>
 
 - 🔭 I’m currently working on **Digital Services Platform**
 
